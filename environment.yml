@@ -1,0 +1,10 @@
+name: bohman-final-part3
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - bqplot
+  - traitlets
+  - ipywidgets
