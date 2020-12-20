@@ -8,3 +8,4 @@ dependencies:
   - bqplot
   - traitlets
   - ipywidgets
+  - appmode
